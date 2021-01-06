@@ -1,0 +1,24 @@
+header{
+  margin-bottom:20px;
+}
+main{
+  margin: 40px;
+}
+Form.Group{
+   size: 20px;
+   color: peru;
+}
+h1{
+  text-align: center;
+  margin-top: 80px;
+  margin-bottom: 20px;
+}
+footer{
+  background-color: skyblue;
+  padding: 0;
+  bottom: 0;
+  position: fixed;
+  left:0;
+  right:0;
+  text-align: center;
+}
